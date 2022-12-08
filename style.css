@@ -4,7 +4,7 @@
 }
 
 body {
-    background: url(imagens/minimal-landscape-sunset-4k.jpg) center;
+    background: url(imagens/minimal-landscape-sunset-4k.jpg) no-repeat center;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
     position: relative;
 }
