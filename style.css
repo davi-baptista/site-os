@@ -15,7 +15,7 @@ a {
 }
 
 #container {
-    min-width: 465px;
+    min-width: 950px;
 }
 
 #topo {
@@ -97,13 +97,5 @@ a {
 
 /*Teste*/
 #divsites {
-    position: absolute;
-    top: 100px;
-    left: 500px;
-}
-
-#site {
-    position: absolute;
-    top: 138px;
-    left: 500px;
+    float: right;
 }
