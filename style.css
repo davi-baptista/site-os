@@ -5,6 +5,8 @@
 
 body {
     background: url(imagens/minimal-landscape-sunset-4k.jpg) no-repeat center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
     position: relative;
 }
