@@ -4,15 +4,18 @@
 }
 
 body {
-    background: url(imagens/minimal-landscape-sunset-4k.jpg) no-repeat center;
-    background-size: 100% 100%;
-    background-attachment: fixed;
+    background: url(imagens/minimal-landscape-sunset-4k.jpg) no-repeat center fixed;
+    background-size: cover;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
     position: relative;
 }
 
 a {
     text-decoration: none;
+}
+
+#container {
+    min-width: 465px;
 }
 
 #topo {
